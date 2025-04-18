@@ -192,10 +192,6 @@ In this lab, you will:
 
 ---
 
-## 📂 Files
-
-- `15 Cisco Device Management Answer Key v2.docx` — Includes detailed instructions and expected output for each lab step.
-
 ---
 
 ## 🛠 Requirements
