@@ -3,7 +3,7 @@
 # Cisco Device Management Lab
 
 
-![Alt Text](/img/Cisco Device Management.jpg)
+![](/img/img.jpg)
 
 
 This repository contains lab exercises and configuration steps for managing Cisco network devices, including routers and switches. It focuses on critical skills such as factory reset, password recovery, configuration backup, IOS image backup, and software upgrades.
