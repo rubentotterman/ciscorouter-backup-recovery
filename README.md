@@ -1,5 +1,3 @@
-# ciscorouter-backup-recovery
-
 # Cisco Device Management Lab
 
 
