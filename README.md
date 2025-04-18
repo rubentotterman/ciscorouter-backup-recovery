@@ -212,7 +212,3 @@ In this lab, you will:
 
 ---
 
-## ✅ Author
-
-Lab materials by [Flackbox](https://www.flackbox.com/)  
-Structured and documented for GitHub by your friendly AI assistant.
